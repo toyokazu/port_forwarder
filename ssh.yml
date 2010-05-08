@@ -1,0 +1,7 @@
+# target-hostname-01:
+#   username: username-01
+#   identity_file: ~/.ssh/id_dsa
+#   local_forward:
+#     - local_addr01:local_port01:remote_addr01:remote_port01
+#     - local_addr02:local_port02:remote_addr02:remote_port02
+#     - local_addr03:local_port03:remote_addr03:remote_port03
